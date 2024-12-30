@@ -1,1 +1,2 @@
 This project consists of all the configs related to accounts, cards and loans microservices.
+Mainly useful for testing the spring cloud config
