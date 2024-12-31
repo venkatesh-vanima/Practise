@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook testing APIs "
+  message: "Welcome to EazyBank accounts related webhooks testing APIs "
   contactDetails:
     name: "Vanima Venkatesh - Product Owner"
     email: "{cipher}cc721f260ac7bf4dab8046f43dcf4e5475a098dca521e1d2344cf52b39f1aa9973bf48f2d5f0fef373a180d659a88d89"
